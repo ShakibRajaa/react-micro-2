@@ -1,0 +1,19 @@
+.banner{
+    max-width:50vw;
+    padding: 10rem;
+    box-sizing: border-box;
+}
+
+.heading{
+    font-size: 4rem;
+    font-style: normal;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paragraph{
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.1rem;
+    font-style: normal;
+    color: #ffffff;
+}
